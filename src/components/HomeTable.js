@@ -30,6 +30,10 @@ export default function HomeTable() {
       <h1 className="title">Piezas</h1>
 
       <div className="form-table">
+
+        {/* TO DO: SEARCH BY RANGE OF DATES */}
+
+        
         <HomeRegister />
 
         <div className="small-table">
